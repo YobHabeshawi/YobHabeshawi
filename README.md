@@ -35,7 +35,7 @@
  </div>
 
    
-## GitHub Stats! 📊
+<!-- ## GitHub Stats! 📊
  
 | <a href="https://github.com/YobHabeshawi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YobHabeshawi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/YobHabeshawi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YobHabeshawi&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+| ------------- | ------------- | -->
