@@ -3,7 +3,6 @@
 - I’m currently working on React.js and Laravel projects
 - I’m currently learning Python and AWS Cloud Practitioner
 - : I’m looking for remote jobs as a backend developer with Laravel or Phyton!
--   Fun fact about me: I have coding OCD.
 - You can reach out to me via
     <div id="badges">
       <a href="https://www.linkedin.com/in/eyob-sahlemariam-ba76091b6/" target="_blank">
